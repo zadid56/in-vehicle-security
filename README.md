@@ -1,6 +1,6 @@
 # in-vehicle-security
 
-A deep-learning model (LSTM-based classifier) for false information / anomaly / intrusion detection in in-vehicle networks.
+A deep-learning model for false information / anomaly / intrusion detection in in-vehicle networks.
 
 # project goal
 1)	Create false information attack dataset from existing CAN bus datasets
